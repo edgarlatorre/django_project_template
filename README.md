@@ -1,4 +1,4 @@
 django_project_template
 =======================
 
-Template for projects django
+django-admin.py startproject --template https://edgarlatorre@github.com/edgarlatorre/django_project_template/zipball/master projectname
