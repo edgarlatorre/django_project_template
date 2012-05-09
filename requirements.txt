@@ -1,0 +1,3 @@
+south
+django-nose
+python-dateutil
